@@ -31,6 +31,10 @@ jobs:
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y --no-install-recommends make openjdk-21-jre-headless
+          test -x /usr/lib/jvm/java-21-openjdk-amd64/bin/java
+          echo "/usr/lib/jvm/java-21-openjdk-amd64/bin" >> "$GITHUB_PATH"
+          echo "JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64" >> "$GITHUB_ENV"
+          /usr/lib/jvm/java-21-openjdk-amd64/bin/java -version
           python -m pip install --only-binary=:all: -r REQUIREMENTS.txt
       - name: Verify native node and adapter gates
         run: |
