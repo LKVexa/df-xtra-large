@@ -1,0 +1,7 @@
+DF Xtra Large 1.0.1
+Copyright 2026 RUSSELL PHILIP SMITHSON
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+Includes the DF adapter, QUORUM VM hosted reference, and supplied LCTL column verifier.
+Historical provenance and qualification records are retained as historical evidence.
+External Python, NumPy, cryptography and Java runtimes retain their own licenses.
