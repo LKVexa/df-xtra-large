@@ -1,0 +1,7 @@
+# DF Xtra Large 1.0.1. Install in a virtual environment.
+# NumPy supports the embedded PA-LCTL core; cryptography accelerates Ed25519.
+numpy==2.2.6; python_version == '3.10'
+numpy==2.4.6; python_version == '3.11'
+numpy==2.5.3; python_version >= '3.12'
+cryptography==50.0.1
+# Native qualification also needs a POSIX shell, GNU make, sha256sum and Java 21.

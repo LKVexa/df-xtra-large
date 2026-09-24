@@ -1,0 +1,31 @@
+{
+  "original_tree_sha256": "ab99e5dcc48e4375ae65c81d6d479ef244bfd860a0560e9ee57da2eab7910830",
+  "release_tree_sha256": "c1fc067832ab50ce7aadce971fbb891a3119262846c50c590c0171afc08446d4",
+  "changes": [
+    {
+      "path": "RELEASE_CONTENTS.sha256",
+      "original_sha256": null,
+      "release_sha256": "1e9a8e09d66477489b0696d0c022411601985ac6af30bac57b7d0c71ed22f892"
+    },
+    {
+      "path": "legacy/source_repository/CROSS_REFERENCE_DIAGNOSTIC.md",
+      "original_sha256": "6374c9a2792d77d0865a304d50ebae3b63aa1e65f989e016f09bc5700d666128",
+      "release_sha256": "6563d288b4704160ef1a0d14c67a88e2307265b9abd75d3b0ccd032d4237e069"
+    },
+    {
+      "path": "toolchain/lctl_1_6_1_rc1/LICENSE",
+      "original_sha256": "cde8ca24fd9a54e3bde29e53be08f8d24987667ac4bcd293010d22bea4e5f2b9",
+      "release_sha256": "639494a6562b33d3ef7a86639c04ebc117e561aaa739d8ea81a699eafcf72c5b"
+    },
+    {
+      "path": "validation/verify_repository.py",
+      "original_sha256": "a4f022da0a4f1a17d3d0d4e52a897367c875d15447a9cd08ac594934a29ab884",
+      "release_sha256": "b187bacf69ace866a535c9b44679aca5c6fb754c86080cf590ca3d41c775de7b"
+    },
+    {
+      "path": "vm/toolchain/quorum_vm.py",
+      "original_sha256": "a1eb5958a0ff660bf6a41ac59cf30d7f5ca615b05122078884f11eac98a0cc11",
+      "release_sha256": "497fd84e00a2d197940f0dd1cac856f823af52fb62e6a03b9fd0697066c3c730"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "source_entries": 5636,
+  "delivered_files": 5642,
+  "renamed_paths": 673,
+  "rewritten_text_files": 541,
+  "max_archive_internal_path": 160,
+  "target_internal_max": 160,
+  "case_collisions": 0,
+  "invalid_windows_names": 0,
+  "root_sums_pass": true,
+  "root_manifest_pass": true,
+  "embedded_repository_verify": "PASS: MSSL seals and repository hashes verified (438 MSSL documents)"
+}
